@@ -13,4 +13,4 @@ This will return a response indicating wether or not a paywall was detected, and
 The microservice returns a response indicating whether or not a paywall was detected and if so, whether it was removed by 12ft.io.
 The response will be 0 if 'No paywall was detected', 1 if paywall was detected but removed by 12ft.io and -1 if paywall was detected but not removed by 12ft.io.
 
-![UML Diagram for he microservice](Screenshot 2023-05-08 203251.jpg)
+![UML Diagram for he microservice](./Screenshot 2023-05-08 203251.jpg)
